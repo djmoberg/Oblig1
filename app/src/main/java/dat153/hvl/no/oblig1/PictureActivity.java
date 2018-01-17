@@ -27,7 +27,6 @@ public class PictureActivity extends AppCompatActivity {
         ArrayList<ImageView> views = new ArrayList<>();
         views.add(imageView);
         views.add(imageView2);
-        //git test
 
         ListView lv = (ListView) findViewById(R.id.listView);
         ArrayAdapter<ImageView> adapter = new ArrayAdapter<ImageView>(this, R.layout.image_view_test, views);
