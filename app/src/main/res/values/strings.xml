@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oblig1</string>
+    <string-array name="names">
+        <item>Daniel</item>
+        <item>Os</item>
+        <item>Testbilde</item>
+    </string-array>
+</resources>
